@@ -1,0 +1,20 @@
+<html>
+<head>
+  <title>Nesting of lists</title>
+</head>
+<body bgcolor="pink">
+<h1 align="center" style="color:white">SAFETY TIPS FOR </h1>
+<ol type="a" start="2">
+  <li>Be able to swim</li>
+  <li>Wear a life jacket at all times</li>
+  <li>Dont stand up or move around, if canoe tips,
+      <ul>
+        <li>Hang onto the canoe</li>
+        <li>Use the canoe for support and</li>
+        <li>Swim to shore</li>
+        </ul>
+  <li>Dont overexert yourself</li>
+  <li>Use a bow light at night</li>
+</ol>
+</body>
+</html>
