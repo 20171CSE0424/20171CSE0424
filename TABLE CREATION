@@ -1,0 +1,29 @@
+<html>
+<head>
+   <title>Table attributes</title>
+</head>
+<body>
+  <table border="4" width="50%" bgcolor="lightblue" cellspacing="5" cellpadding="5" align="center" bordercolor="navyblue">
+  <caption>Food details</caption>
+  <tr>
+     <th>   </th>
+     <th>Apple</th>
+     <th>Banana</th>
+     <th>Kiwi</th>
+  </tr>
+  <tr>
+     <th>Ramesh</th>
+     <td>1</td>
+     <td>2</td>
+     <td>3</td>
+  </tr>
+  <tr>
+     <th>Suresh</th>
+     <td>4</td>
+     <td>5</td>
+     <td>6</td>
+  </tr>
+</body>
+</html>
+     
+
