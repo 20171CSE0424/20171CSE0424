@@ -1,0 +1,27 @@
+<html>
+<head>
+  <title>LAB PROGRAMS-2</title>
+</head>
+<body>
+<h3>ORDERED,UNORDERED,DEFINITION</h3>
+<ol>
+  <li>Cat</li>
+  <li>Dog</li>
+  <li>Rat</li>
+</ol>
+ 
+<ul>
+  <li>Apple</li>
+  <li>Bat</li>
+  <li>Cat</li>
+</ul>
+
+<dl>
+<dt>HTML</dt>
+<dd>Hyper Text Markup Language</dd>
+<dt>DOG</dt>
+<dd>A human's best friend!</dd>
+</dl>
+
+</body>
+</html>
