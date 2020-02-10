@@ -1,0 +1,9 @@
+<html>
+<head>
+  <title>Target outside</title>
+</head>
+<body>
+  <a href="https://www.reddit.com"><img src="/home/Sem6B7/Downloads/p.png" alt="P letter" height="200" width="200" border="5" align="right">Reddit</a>
+  <p id="RED">Description</p>
+</body>
+</html>
