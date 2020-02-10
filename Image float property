@@ -1,0 +1,11 @@
+<html>
+<head>
+  <title>Float</title>
+</head>
+<body>
+  <h1>The float property</h1>
+  <img src="/home/Sem6B7/Downloads/cellphone.jpg" alt="Cellphone" style="float:right;width:170px;height:200px">
+  <p> In this example, the image will float to the right in the text</p>
+  <p>This is a picture of a Cessna 210. The 210 is the flagship single-engine</p>
+</body>
+</html>
