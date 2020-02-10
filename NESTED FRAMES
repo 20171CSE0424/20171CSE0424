@@ -1,0 +1,13 @@
+<html>
+<frameset cols="50%,*">
+<frameset rows="50%,*">
+   <frame src="/home/Sem6B7/Documents/20171CSE0424/Lists">
+   <frame src="/home/Sem6B7/Documents/20171CSE0424/HTML TAGS">
+</frameset>
+<frameset rows="30%,35%,*">
+   <frame src="/home/Sem6B7/Documents/20171CSE0424/Anchor tag">
+   <frame src="/home/Sem6B7/Documents/20171CSE0424/TABLE CREATION">
+   <frame src="/home/Sem6B7/Documents/20171CSE0424/Target outside">
+</frameset>
+</frameset>
+</html>
