@@ -1,0 +1,14 @@
+<html>
+<head>
+  <title>A link</title>
+</head>
+<body>
+   <h1 Aidan's Airplanes</h1>
+   <h2>The best in used airplanes</h2>
+   <h3>"We've got them by the hangarful"</h3>
+   <h4>Special of the month</h4>
+   <p>1960 Cessna 210<br/>
+   <a href="/home/Sem6B7/Downloads/Cessna.jpg">Information on the Cessna 210</a>
+   </p>
+</body>
+</html>
