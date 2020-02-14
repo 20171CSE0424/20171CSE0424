@@ -1,0 +1,35 @@
+<html>
+<head>
+   <title>Resume practice activity</title>
+</head>
+<body>
+<h3 align:"left">Muppuru Venkatanagapragna</h3>
+<a href="mail to:pragnamuppuru@gmail.com">pragnamuppuru@gmail.com</a>
+<h4>+91 8247404677</h4>
+<hr/>
+<h2>CV HIGHLIGHTS</h2>
+<ul style="list-type:circle;">
+  <li> a </li> 
+  <li> b </li>
+  <li> c </li>
+</ul>
+<hr/><h2>PROFESSIONAL EXPERIENCE</h2>
+ 
+
+
+
+<hr><h2>EDUCATIONAL QUALIFICATION</h2>
+<table border="4" width="800">
+<tr>
+  <th>Qualification</th>
+  <th>Board</th>
+  <th>Percentage/Grade</th>
+  <th>Year</th>
+</tr>
+<tr>
+  <td>B.Tech</td>
+  <td>University</td>
+</tr>
+
+</body>
+</html>
