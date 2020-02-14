@@ -1,0 +1,12 @@
+<html>
+<head>
+   <title>HTML IFRAMES</title>
+</head>
+<body>
+   <p>Document content goes here....</p>
+   <iframe src="/home/Sem6B7/Documents/20171CSE0424/Image maps" width="555" height="500" style="border:2px solid red; scrolling=no"
+Sorry yor browser does not support inline frames.
+</iframe>
+<p>Document content also goes here......</p>
+</body>
+</html>
