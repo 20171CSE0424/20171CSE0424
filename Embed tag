@@ -1,0 +1,11 @@
+<html>
+<head>
+   <title>HTML EMBED TAG</title>
+</head>
+<body>
+<embed src="Presidency.mp4" width="100%" height="100%" type="video/mp4">
+ <noembed><img src="presidency.png" alt="Alternative Media"></noembed>
+</embed>
+</body>
+</html>
+  
