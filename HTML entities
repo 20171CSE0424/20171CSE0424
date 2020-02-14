@@ -1,0 +1,18 @@
+<html>
+<head>
+   <title>Style Colors</title>
+</head>
+<body>
+<h1 style="color:blue;">This is &gt; heading</h1>
+<p style="color:red;">This is &lt; paragraph</p>
+<h1 style="font-family:verdana;">This is &nbsp; heading</h1>
+<p style="font-family:courier;">This is &amp; paragraph</p>
+<h1 style="font-size:300%;">This is a heading</h1>
+<p style="font-size:160%;">&quot;This is a paragraph &quot;</p>
+<h1 style="text-align:center;">Centered &copy;</h1>
+<p style="text-align:center;">Centered &cent; paragraph</p>
+<p style="font-size:160%;">Welcome</p>
+<p style="font-size:160%;">Bye</p>
+</body>
+</html>
+
