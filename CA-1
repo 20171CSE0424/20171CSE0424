@@ -1,0 +1,46 @@
+<html>
+<head>
+   <title>CONTINUOUS ASSESSMENT-1</title>
+</head>
+<body>
+ <table width:100px;>
+<tr>
+<td><h1 style="background-color:lightgreen;" height:100px; width:150px;><center>PRESIDENCY UNIVERSITY</center></h1></td>
+   <td><img src="/home/Sem6B7/Desktop/logo.png" style="float:right;width:70px;height:100px"></td>
+</tr>
+</table>
+<table width:100px;>
+<tr>
+               <td style="background-color:pink;"><p><b>B.Tech courses</b>
+               <ul>
+                 <li>Mechanical</li>
+                 <li>Civil</li>
+                 <li style="background-color:yellow;">Computer science</li>
+                 <ol type:"lower-roman">
+                 <li>CCE</li>
+                 <li>ISE</li>
+                 <li>COM</li>
+                  </ol>
+                 <li>Electronics</li>
+                 <li>Petroleum</li>
+                 <li>Electrical</li>
+
+             </ul>
+</p>
+ </td> 
+
+              <td style="background-color:yellow;"><center><b><u><h3><Welcome to <font color:"red">Welcome to CSE </font>Dept</h3></u></b></center>
+              <p><center>Department of computer science has three branches of students</center></p> 
+              <p><ol start="3">
+                   <li>8th SEM</li>
+                   <li>6th SEM</li>
+                   <li>4th SEM</li>
+              </ol>
+</p>
+ <td font color:"blue">Internet technology course </font>     
+    <p>guaiyhr8oau v9p u</p>
+<p><u>download handout course</u></p></td>
+</table><hr/>
+<img src="/home/Sem6B7/Desktop/logo1.png" style="float:center";"width:100px;"height:40px;">
+               
+
