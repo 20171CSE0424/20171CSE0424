@@ -1,0 +1,16 @@
+<html>
+<head>/
+<style>
+*{
+text-align:center;
+color:violet;
+}
+</style>
+</head>
+<body>
+   <h1>Hello World!</h1>
+   <p>This is a IT lab</p> 
+   <p id="para1">Me too!</p>
+   <p>And me!</p>
+</body>
+</html>
