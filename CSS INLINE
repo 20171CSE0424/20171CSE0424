@@ -1,0 +1,11 @@
+<html>
+<head>
+   <title>CSS INLINE</title>
+</head>
+<body>
+    <h1 style="font-size:14pt; color:Blue;">This is a inline statement</h1>
+    <p style="color:red;font-size:15pt">Hello CSS</p>
+    <p>This paragraph is styled with CSS</p>
+    <p>CSS comments are not shown in the output</p>
+</body>
+</html>
