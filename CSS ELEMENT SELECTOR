@@ -1,0 +1,11 @@
+<html>
+<head>
+  <style type="text/css">
+  h1{font-size:40pt;color:blue;}
+  </style>
+p{color:red; align:center;}
+</head>
+<body>
+<p>Hello world!</p>
+<p>This paragraph is styled with CSS</p>
+<p>CSS 
