@@ -1,0 +1,20 @@
+<html>
+<head>
+<style>
+  h1.line{text-align:center;
+     text-decoration:line-through;
+     text-transform:capitalize;}
+  h1.over{text-align:right;
+     text-decoration:green wavy overline;
+     text-shadow:4px 4px 8px yellow;}
+  h1.underline{text-align:left;
+               color:green;
+               text-decoration:underline brown;}
+ </style>
+<body>
+  <h1 class="line">This illustrates line through</h1>
+  <h1 class="over">This illustrates overline</h1>
+  <h1 class="underline">This illustrates underline</h1>
+</body>
+</html> 
+  
