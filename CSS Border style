@@ -1,0 +1,31 @@
+<html>
+<head> 
+  <style>
+    p.dotted{border-style:dotted; border-width:10px;border-color:blue;}
+p.dashed{border-style:dashed; border-width:5px;border-color:yellow;}
+p.solid{border-style:solid; margin:25px 50px 25px 50px;padding:25px;width:300px;height:200px;}
+p.double{border-style:double;margin:auto;padding:50px;width:400px;height:300px;}
+p.groove{border-style:groove;}
+p.ridge{border-style:ridge;}
+p.inset{border-style:inset;}
+p.outset{border-style:outset;}
+p.none{border-style:none;}
+p.hidden{border-style:hidden;}
+p.mix{border-style:dotted dashed solid double;border-width:5px 10px 5px 10px;border-color:green yellow orange black;}
+</style>
+</head>
+<body>
+<img src="/home/Sem6B7/Downloads/photojpeg" style="float:right;width:170px;height:200px;">
+<p class="dotted">This paragraph represents dotted</p>
+<p class="dashed">This paragraph represents dashed</p>
+<p class="solid">This paragraph represents solid</p>
+<p class="double">This paragraph represents double</p>
+<p class="groove">This paragraph represents groove</p>
+<p class="ridge">This paragraph represents ridge</p>
+<p class="inset">This paragraph represents inset</p>
+<p class="outset">This paragraph represents outset</p>
+<p class="none">This paragraph represents none</p>
+<p class="hidden">This paragraph represents hidden</p>
+<p class="mix">This paragraph represents mix</p>
+</body>
+</html>
