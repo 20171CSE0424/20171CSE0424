@@ -1,0 +1,28 @@
+<html>
+<head> 
+  <style>
+    p.dotted{border-style:dotted;}
+p.dashed{border-style:dashed;}
+p.solid{border-style:solid;}
+p.double{border-style:double;}
+p.groove{border-style:groove;}
+p.ridge{border-style:ridge;}
+p.inset{border-style:inset;}
+p.outset{border-style:outset;}
+p.none{border-style:none;}
+p.hidden{border-style:hidden;}
+</style>
+</head>
+<body>
+<p class="dotted">This paragraph represents dotted</p>
+<p class="dashed">This paragraph represents dashed</p>
+<p class="solid">This paragraph represents solid</p>
+<p class="double">This paragraph represents double</p>
+<p class="groove">This paragraph represents groove</p>
+<p class="ridge">This paragraph represents ridge</p>
+<p class="inset">This paragraph represents inset</p>
+<p class="outset">This paragraph represents outset</p>
+<p class="none">This paragraph represents none</p>
+<p class="hidden">This paragraph represents hidden</p>
+</body>
+</html>
