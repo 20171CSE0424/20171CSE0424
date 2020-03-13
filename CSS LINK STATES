@@ -1,0 +1,16 @@
+<html>
+<head>
+<style>
+a.one{color:green;text-decoration:underline;padding:14px 25px;}
+a.two{color:black;text-decoration:none;padding:14px 25px;}
+a.three{color:black;border:4px solid green;padding:14px 25px;}
+a.four{color:white;background-color:brown;padding:14px 25px;
+text-align:center;}
+</style>
+<body bgcolor="lavender";>
+<a class="one">Text link</a>
+<a class="two">Text link</a>
+<a class="three">Link button</a>
+<a class="four">Link button</a>
+</body>
+</html>
